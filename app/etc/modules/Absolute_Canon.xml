@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Absolute_Canon>
+            <codePool>local</codePool>
+            <active>true</active>
+        </Absolute_Canon>
+    </modules>
+</config>
